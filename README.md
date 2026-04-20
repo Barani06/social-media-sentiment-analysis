@@ -57,7 +57,6 @@ The data is cleaned using Python and visualized using Power BI to extract meanin
 ## 📸 Dashboard Preview
 
 <img width="1008" height="572" alt="dashboard" src="https://github.com/user-attachments/assets/2315f77a-6b1d-4488-95e6-11038dfb8cc8" />
-![Dashboard](dashboard.png)
 
 ---
 
